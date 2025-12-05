@@ -1,0 +1,3 @@
+{"id":"1","annotation_type": "conversation", "conversations": [{"from": "human", "value": "Hi, how are you today? "}, {"from": "gpt", "value": "Hello there!"}]}
+{"id":"2","annotation_type": "conversation", "conversations": [{"from": "human", "value": "What are you doing now? "}, {"from": "gpt", "value": "I'm doing well, thanks for asking."}]}
+{"id":"3","annotation_type": "conversation", "conversations": [{"from": "human", "value": "Can you tell me about today’s weather? "}, {"from": "gpt", "value": "The weather looks great today."}]}
