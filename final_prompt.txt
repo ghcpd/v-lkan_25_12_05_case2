@@ -1,0 +1,1 @@
+Convert each line in the JSONL file into two MP3 audio files by generating speech for the human text and the GPT text, and save all MP3 files into a folder with filenames like human_<id>.mp3 and gpt_<id>.mp3.
